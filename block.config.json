@@ -2,8 +2,8 @@
   "name": "dddd",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/that-coder/dddd.git",
+    "ssh": "git@github.com:that-coder/dddd.git",
     "branch": "block_dddd"
   },
   "dependencies": {

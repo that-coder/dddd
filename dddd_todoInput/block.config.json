@@ -2,8 +2,8 @@
   "name": "dddd_todoInput",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/that-coder/dddd.git",
+    "ssh": "git@github.com:that-coder/dddd.git",
     "branch": "block_dddd_todoInput"
   },
   "language": "js",
