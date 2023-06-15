@@ -1,0 +1,36 @@
+{
+  "name": "dddd",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_dddd"
+  },
+  "dependencies": {
+    "dddd_addTodo": {
+      "directory": "dddd_addTodo"
+    },
+    "dddd_removeTodo": {
+      "directory": "dddd_removeTodo"
+    },
+    "dddd_listTodos": {
+      "directory": "dddd_listTodos"
+    },
+    "dddd_todoInput": {
+      "directory": "dddd_todoInput"
+    },
+    "dddd_todoItem": {
+      "directory": "dddd_todoItem"
+    },
+    "dddd_todoContainer": {
+      "directory": "dddd_todoContainer"
+    }
+  },
+  "blockId": "ZMa0tgClMnJq0wYYNQyrF",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
